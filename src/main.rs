@@ -86,7 +86,7 @@ async fn main() {
         main_state.update();
 
         // let macroquad handle frame times,
-        // input updates, etc
+        // input updates, etc.
         next_frame().await
     }
 }
