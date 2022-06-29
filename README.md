@@ -7,4 +7,4 @@
 
 
 # Picture of the game 
-![image](https://user-images.githubusercontent.com/70446293/176551158-01c5f5d0-4008-4544-8a79-c836b27a1d20.png)
+![image](https://user-images.githubusercontent.com/70446293/176551603-068e5fd5-9ef3-43be-8c0f-59d475d6ce3d.png)
