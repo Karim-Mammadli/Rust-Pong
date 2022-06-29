@@ -1,5 +1,6 @@
-# Rust-Pong
-🏓 2 Player Ping-Pong game with Rust
+# Rust-pong
+🏓 2 Players Pong game with Rust
 
-# Play 2 Players Ping Pong
-🎮 Type ```cargo run``` to compile and run the Rust program
+
+# Play 2 Players Pong
+🎮 Type ```cargo run``` in terminal to compile and run the Rust program
